@@ -3,3 +3,22 @@
     background-color: honeydew;
     box-shadow: 20px 10px 20px;
 }
+.P-2{
+    width: 50%;
+    background-color: honeydew;
+}
+#P-2-S-2{
+    background-color: chocolate;
+}
+#P-2-S-3{
+    background-color: chocolate;
+}
+.P-3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: large; border: 2px solid; margin: 20px; padding: 20px;" 
+background-color: honeydew;
+box-shadow: 20px 10px 20px; width: 50%;
+}
+.P-3{
+    background-color: honeydew;
+}
+}
